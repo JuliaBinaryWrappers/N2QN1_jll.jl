@@ -1,478 +1,478 @@
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "13e4702efb9bb57276665a6563d5b3821b1fb94b"
+git-tree-sha1 = "a3482584dcb66cdb9fdede0027302708ff28d52c"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[N2QN1.download]]
-    sha256 = "f936b23255b48c0f5384227fea899cb87393c148cffc28b9f766deea9b6093d7"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "394e821d56758381759127f0eab911127556fc671ec73253808a8a050aec4a3a"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "480756d5bc41a1e1d5f2f1dd11a30ca206841173"
+git-tree-sha1 = "01bd4b63da370fd983c7ac9277539fbe18c59ab7"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "34aedb889db6068d58d197e65bb12aaee6ab80de78d8fba1465e6d4b67b17b6b"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "e05fcc3a0dad114e2114f0d6645666ba3a5a1f55bbfb3af406f40e4d005b4a07"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "74193351c3b9153f6314a116339c67cb171d5b25"
+git-tree-sha1 = "68c9670e7df4083312d6a63cb5554ef157b8bc97"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "a4bb6db2066c3cf04687d040d5b8d2f6b63711e6675ae8abd39e8bc5d50a4267"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ae60e2818dade2e1cb63fce8e40f74bb3150db41ef9de2e08ac161d15b97a515"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "00ca40dbf0811f0af584a761ca277f60a5525825"
+git-tree-sha1 = "6a008f9424b5609a1508b7b9d3a1fde95ee5e23e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "7d8bffc9ab22a8355819c9b95ee357f7d581e9ad40f8f0ca49ed3866a8c499d2"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "74dc7e3b7a9c36a92c1fd542fb5afb199d78ec1114da0d4224faf822f66cbb3e"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "cbfa5fab6bbff6a4fd227b1c43f6efa74de7bb42"
+git-tree-sha1 = "a3e857cfa6edc3df54e52aaa3aace350cc08d219"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "3a6cfec9cea830748ae0c51de77ee767cf271fe43e3fc6a48a9ae8c76643b2df"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "b50ca8cd414a64d39f915d14b3abb06a998f8e5f7562db23b29e2ddc68125f08"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "373b907d3abc96e78e3bfa76c21166581dcb84ba"
+git-tree-sha1 = "d17fce4a59849e73f99a3060b34259480b618972"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "34257e01483e858619cbbfc065142383320fe6855670d4c0679e148280e897ac"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "16c195e46e2eb81611697a9482c69f5da5a754ef73319282295ec78a099218cf"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "800e0f2e66af897a9c121ae18bd340c36d96bf5b"
+git-tree-sha1 = "39903065a0fbbcaac012e2cabd30de08cb50b07a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "cc265dced51e8d85cd266838aa53955dc6cc31666df9a8356ceb4fbb3b2a3bc8"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "72be26a403747e93db9dab28507064003d0b3eb9e1137daece1983a784474258"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "aarch64"
-git-tree-sha1 = "8e8fe5f23c67dcff223244c4298a21fc63633d33"
+git-tree-sha1 = "21f62898f5908c304b1c5ae3e469037dc30f128c"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[N2QN1.download]]
-    sha256 = "e827516005b80b68164edce563fff04017d37dd883a4907c4005cd62546a3ad2"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "bdaf9289156c129ed86e19efbaec846d802d16686737aa704d7f356f8a952ccb"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b14627452aa6ac3a2a075b45cf23623a4cc694ac"
+git-tree-sha1 = "6aee688300e51cbb5a4676da1152f4ad9248f75a"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "3e4e5b33032d40eab656645a522baa05543b5dbb248540de2d4c50e0066e23d9"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "47d7c88822bb7c80ee11668e2f8a94d7850382df6ccbc82aa750eab421320a5a"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cf0c07f1292650bda9bffbb4add03567c69d8841"
+git-tree-sha1 = "0af01b93022f4be7aa5638e512759b76d38921f1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "36f3b95de00667e56514a4cf856fb267bf550538ec4fe4d6de03d56d8b502b03"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "b81a4daeb104b851ab46a7898c2783be08cd7834c9624b5b518a590796f04c30"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c17d0b79f11da5cea948b5fe7a620a5e55e79818"
+git-tree-sha1 = "6aad49d5aebc582b7da56fefe16ce053f0ad7e38"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "8a48e89e4e4e11a617f058433cfe2c440b86d63dab099be4d937faf198e946a9"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "73e33b5c98913caef001932fe157b2a802f9bfd4d17184320611c8313764b64f"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "62a4273e1261f1cd8c6f51226c52e088f7d9dbec"
+git-tree-sha1 = "dffb861c8e28fa7ee799dc0a92ef582e267ce445"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "009e49bd22145299cb5b91643df9d5a4679b66d50c53d01c1bb972892245cac4"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "4ad988b1de7b5c36395b2acfec781ec047479edf253ef677c2c88dc8dfaaf6a4"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "56fca9fa9dfbdc3ba64bc9fa44386eb355f7cd77"
+git-tree-sha1 = "4299b61b11ec6d9c86d2bd5b25f0f567dd940448"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "a49e9c2770f76370f785f07dce659c373d9fb04991a597ef369ebfd9addbf98f"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "1d1d0cc62f57f34364ebf5256fff33e080106796da1f8263e68dbf18352288be"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "78d0fda8e773a7bc9a3ae3ee27ca28d4072e75be"
+git-tree-sha1 = "6e8c4f8861d474d3db9b4bda29dc1a82ad572be2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "093e76a529a0f508a937e79a429360640f6e9e130a5c82052b16788fe80b83e8"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "8eb4a05a7504148ea6bbd59cfcaf333318c89dd904dee8710ba3ca181fecbf73"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2e011d68d8632582ca354d13f48c01782822b551"
+git-tree-sha1 = "b4d3a1c05fa3935c274fe40fccc926c6e1ba7a22"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "bdc6c2ca7e1328acc7b0a4eab34a8c40797e3c3b3e08793bbc657e3be21d4789"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "84b1ceb24e03048c29658451eb7645557971b41f981c80e40e4fd32ddafc00ec"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "54ea8e652642a368c73185d37feeede05d4ea86f"
+git-tree-sha1 = "80d35d9746f8def318421350f34435425b65d0be"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "b96d7d7c723e7dcd4130ea0234e57bfb5a01acfe658e4b53a790a38d7edefcb1"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "2cf77cc04062782de6c98636eef83341f1a89d97fbbd3e0879cf5056ffb94542"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fe2cfb136fe04edf52ad3556c41375bba9025658"
+git-tree-sha1 = "abdd58b008a9c67320d902ba2de12f9187ee1768"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "d9f74d07b5e708a1580540452a0f221757364991b4fd583a6ab39f137114ea36"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "b307cee52dbc22a2fa08a388611dc3a5d772c4f2bf887136360ce2aec108d09e"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "cfb713267364615c84f2860cd76e98a921f67ee6"
+git-tree-sha1 = "6bf972ea5a3b3d96b3e5c3898039c7d209e1eb6b"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "11d964cd7a7d03e05306d8ee579773176efee166c05d000a1d2c364389e561c7"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "0f4a6fe223dfe499afe7b660e903e4c1999aaf58e307dffe60776bb4938104cd"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "72e6bfd1544aeadedd1e6e514280c74d62728bf7"
+git-tree-sha1 = "50bf4002310e20d82b94f916e2ebe9d0ea740548"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "aba4c93758efe64e6e1e874e80120d808bae868aff63344e7eb6f16151319db6"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "45c1dbb970644bd0b38b7de8ad24d4bfcfdc74b1983bf043ab569e0962a5ca17"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c4eb5fd1f40017fcf191e80980783eb7f90f53fe"
+git-tree-sha1 = "5b97b6c8868756e1f6751450d11a4abb62ffc91e"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "167bc20999560db4b99dbed9cd5095d4db28aabf807fd98c2c6d96fe7ba0895f"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "7d877b84f4667dd500458ac8cdc08892ce8ce74d8ee1135dc21bff966689cddc"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "4f3111915d08039d9f8cc39d0aef6241477b6fbb"
+git-tree-sha1 = "3891032f6ea25b973096e565ca4d4a42db79fb09"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "8ae58fdac7101f775c568a06723ae31ac23a0df1e6ef19bd3fb0a55d033da00f"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "ab218fc33605fb97ea41a64519b05612f729afa87aaa2ed25a3637546efff151"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "ed4a385529f03e4edb8c0b86e44eda4471c0e442"
+git-tree-sha1 = "204c60cad59c9937d49306064ed2c1b4ecc351b1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "af6d84f217f58c1e036fe520c9ae47ccf893a91890b71702a534f296a755fb31"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "31724f5a05bbda9b4b3e47a1b120d1d282c1a45cd6d7f62114ce9ca85cfa4e00"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "44e2d98b91ad2ec8860b5c69ee72845b8abfe6b2"
+git-tree-sha1 = "54732a4e948d6d72063574c639800967354f98ec"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "53c83b9b0ec049b3952a298dcf0a96cd6711327c74d643936ce954395d875f79"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "23dc38335783adfe4345de88f8822166179f926c1f19c28e2fdd2a6c9120a9d3"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "dd8ba870d3b9d4eaa0e2e63fb6b4fd4ed903ed5a"
+git-tree-sha1 = "b62306e05fdd6bf2a894726f188ad78d7abd63f1"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "78c3237c46e6324649f886366024fad494a06770d291e6f9a292004e6dca6988"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "25e8df65d2dda0427688160a327581b04fe4a24413e0eb973af172fbff510bac"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-linux-musl-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "679eec8d6f5ad31a257abfae0e9456cd6fa657fa"
+git-tree-sha1 = "59b7c0d747ffefa97cd83aa1d61df73065800117"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "e1e274eb80ce0d7385253638507fc7b7d394e6a59d9e893696208783b49204ad"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "77d3289849cbbbb5e3c0c69fed22c7d1de9509686b50f53d37cb2a896e263d57"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-linux-musl-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "c406a3695b30e383e86d7d3842550e78941e549b"
+git-tree-sha1 = "5bc29ccb8f13ba82ddfa8af100b62a87e343a766"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "acaf24d21a72db2aab2c3c177452e59e66232e9c344e9bdcd7bc51fb763d4dbf"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "63391f821fda4d146a94378f8098d32aea65d6a5fafbc79422c4c4097b609b54"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-linux-musl-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "de9b952ec0cb50f56c825d722f72943840983824"
+git-tree-sha1 = "97e7c26fb051b7c81b27b8528eb80cdf0c0c326e"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[N2QN1.download]]
-    sha256 = "494103037c3c3145ee172795a3a5ec32dc93e3b2590526817b4958661593ace0"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "009d8fd102321fa3ee6905e32fe6b20459e5124d218855b801c7fd5cb7893c3e"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "fc6520399117e7236ac9e199c6fd4112f2a2dcd0"
+git-tree-sha1 = "61a44dc434b72ae2c917ad8fcba3eece561716cf"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[N2QN1.download]]
-    sha256 = "4dddd87491de3649c06e7b0bea85e453e9527fdbf5be0ed5c2c6f8897c6a7708"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "66f6e609cae9a360c1f03fbe7ecc33fbf93d9d3e285799a0be5115f3b5634c99"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "i686"
-git-tree-sha1 = "e72724fb41eb68d9491d81c824392b15889848a8"
+git-tree-sha1 = "d7d65d91e8df0ee55dd51a97bbafff531a96e9ef"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[N2QN1.download]]
-    sha256 = "4d38dad3928806833b68061fbee882e67ed39556c8197cee4caf889bf90c9264"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "5e25bd73adf534074bea39c8bae5cbc182fe1089b88548171ed4aba0d10f700f"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "powerpc64le"
-git-tree-sha1 = "f239c22535748563f833c87072578ec8f29defca"
+git-tree-sha1 = "8786b29e7f775fa5d19a49edac983a984a8c7208"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "b598bf0f9a98efb41c7987a85149b002f7f6a1a8f1526a0aa4b2c13fd504a96c"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "7bda6d0ec0b0fe5374c6fbb2620ce25c3985a89b5b122bbbcd8bf8dfd4d86b83"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "powerpc64le"
-git-tree-sha1 = "6fd29c0d7ec455110cdc0238e15637cdbbd3dd06"
+git-tree-sha1 = "e7ef690405da9bf7ee08a3acd8778f4f3b4be7e4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "d339ef4f2da1b8b9efd52e2347e30689b8d899f3925f98b733aabdbcff84bb63"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "17aa1d674787e0c1b957da44266ce22f4478c96c074de4a96bfb43f807d86b6c"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "powerpc64le"
-git-tree-sha1 = "1d95db25398bfcc34a3f2aaefcff74de01efb7ee"
+git-tree-sha1 = "a48a88118f7c09c6bb54cda6841a293231cd74f5"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "75667fec0dbf2a232714fbe7680d1d17d5fc5966071449a5ee5598894f410645"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "02248a4788be806a80ddc558c3a2b07e2e361f65afb9387d6bdd2d63acccae5f"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "riscv64"
-git-tree-sha1 = "6b2dc82448201c1de22489d3cd0106bfdda22516"
+git-tree-sha1 = "7f7f6719c7acba458b7214b5ab41f5c52334f87f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "3afbc396979de4d7419d9c0db36fc208f51662a3789759e5811e525d227cf509"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "05c716252f2b97ce4614ba64b486a823fc0150f3fe4e81308510490a8f49fd6c"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "d5456da8f775af541c0afcac3be951206c827463"
+git-tree-sha1 = "08af5d159fd8d6a67d7af056f4e1a6c43c432f1e"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[N2QN1.download]]
-    sha256 = "98a2608cba51ea5b9abcf5acdbe81e2ffa4f0c74d9b80a62f0c4db2011e23620"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "58cf1a0fd49af47b1f48253fa5fafc28c960c72823bf6e7b97d5e2b9e63d8516"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "d8c165ead0f8ad57fb5714b33cf4f181efcc9df2"
+git-tree-sha1 = "d2b354f772470173603dbaf01f0ee574a3b1a071"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[N2QN1.download]]
-    sha256 = "6ebac4e70df57e1d83f8dfdd3b4976334086f84757e8b73065539674d5b46467"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "3ebcc7a12cec24e184fdb866999d232ae2ac66d9e9ca65a4a7ca08d7ad1a6af8"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "d315737df916ab374f3c763ea8635e81389256c0"
+git-tree-sha1 = "b29595a56505fdea085c8b89607139990dc4bef8"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[N2QN1.download]]
-    sha256 = "d0dd9e36158add7b6ac716e7397fddef6a865729a6f6d3f443184ed45413f013"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "483ed73d430f0125a890d168e3d9f8f307756e1c6838c6dc721379b828b84165"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "68155e89318a8cd95ef7111fff1695615fd27fd0"
+git-tree-sha1 = "3b4e74286af0ac527fb67b6ef196f9d24a1f22cc"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "2ffeeb031e00c2032a739b937b5a7c40bcadfc4c24c9657abdeca7d426529620"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "ad9d8f4f6d0582119d6e6c7f572b39b94e8d29aa9631359c81715f89f63a2199"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "96b1b9f88f5b8ee3cb4645d05891dac70d1ee735"
+git-tree-sha1 = "52810e0815c76c67c290504bf889ac3605e9f8ce"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "5b01cfa22c099486f6e45ee4f29863f16d84ceda3a65a0ebdd232a8fb91b4d13"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "0e02ac10cb372454cee70f1aa2a2504b16e23889957e286eb07e0e582aab9618"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "41a74105332cf513ea5796c67adb50111bdcb58c"
+git-tree-sha1 = "099dc599596712f0a902c145f1f2ce7eb55ab6c2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "3b7336ce25c06a2f64be9eb249db851d1bb135f109be7ab587637f2a3d0684c1"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "f6af593f848dbe6492074d493b42090408f38ddde16e374f2a14cd9eccb69781"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "6d271c27b2595b56e487587318889ca5bcaed792"
+git-tree-sha1 = "776c2e9e0da53cb4dbaa141db45b0c9d39ad134d"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "e6e85b0de928929b07b09a9ef47e687e20e67a35064eb3cc0a7e21b08fd243e4"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "aa192496accaf16b117573e5657cc6f818f9f1a4f67c098eccb3f59bd21a596b"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "ac41cdcb33862dfdfc1b32c16c25a088f0e1c6e7"
+git-tree-sha1 = "a4f6952a0df6c9e79638fad8b9ff6212465b44d5"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "464342338540905fc7276fa1695b187fa9a6df03f17ad6b0418fa778148c0efc"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "753e43008c5eaf6ed686029904ecae3bb4c3653b0eaa55d9b30830dbebc9957f"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "7b8d4ffee480603de7d65dd8a10aec0e03f39a14"
+git-tree-sha1 = "e421f14225b0d1c934630ea594399c272ea24688"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[N2QN1.download]]
-    sha256 = "f9d53a40459a4df82ac023ac588eac6dc19b7592df4ad47920813a04d0ec3f4d"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "67ac5c774b2070309eecaabc411f56cd0f25ec090b36501c5defbe7cd5346c3b"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "c6ed57de743482a180f296de6ad39b2730ba29cc"
+git-tree-sha1 = "a0973a001ab21f03db112c03a77679be38cfc04a"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[N2QN1.download]]
-    sha256 = "e6d3e406e3c0bc9eefac6a7409f3daef92e2957e751237e1a1b3f1ba6291d917"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "f7f5474c87db5aff300e066b2bcc4f7fbf7cd9e48768861aa29b15008fdc5e75"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "6fdabec3f5e5ad7d94aa8033ec4740c836144646"
+git-tree-sha1 = "cf6e1c297eb6e1eb9e531de8dfbce8c71f6285c0"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[N2QN1.download]]
-    sha256 = "1fcf3e6ffa1d7cd54c75339dea1e22ba2618a035d7b8dab530196e5217d01462"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "237fe58f0aefad0682fc8f918d95a11e14b29d5354967e7e658a14f073276bd9"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "269dac6a840f2d6e3f85e8dac5490c33f8bce156"
+git-tree-sha1 = "6fc80a5417b08db0a4ab3a6e760594acf9d8d82e"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[N2QN1.download]]
-    sha256 = "a4b4d715479d73c8bd321938aa27bc5591f02e29b7c86a24dc3f9832cc7807ca"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "8249f7334bf6ffcba5ceee2a4456bfbd095a80e6aa13225ef1d749c0717a6cf4"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "5bfca54d34d9f0cb3a6d476813f7b6846bc300e1"
+git-tree-sha1 = "874f1fc46f09dc2004eeec8703f951e0f794cd0c"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[N2QN1.download]]
-    sha256 = "5367fbad6d134a615106672b73135e4c6e18f86d383d4662cd0cf6a4923ac98d"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "3419ba1c34eb9f2d0197810da4f1f4764b1c4ca6c71376e81d74526386d6a944"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "e87dd07b365cd61f295ff3104887b4d13ee8686a"
+git-tree-sha1 = "41b0d067af1b990de19384eafdf15016c9df79d6"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[N2QN1.download]]
-    sha256 = "b31ca0b2e318073d066da85481d8d57cb9698fcd2de59de95739a1de839bd541"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "8d1cf9d25301f05a95c71a71833773a28a8f557d5ac08e043f51f4ab0d902159"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[N2QN1]]
 arch = "x86_64"
-git-tree-sha1 = "e998ae0b746ea047041b30aa30d29d461dcd00b2"
+git-tree-sha1 = "e9ebf66f1652b73495753aa9b4b3eb35378f0237"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[N2QN1.download]]
-    sha256 = "2dadf2996db1886990124c8a57b96547b1be16ce74c484a036cb5ec82f960551"
-    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v3.0.0+0/N2QN1.v3.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "74e413bb2f5ba9ed773ee79c25e0d0939c82a95812c1598807b0e7076486721d"
+    url = "https://github.com/JuliaBinaryWrappers/N2QN1_jll.jl/releases/download/N2QN1-v4.0.0+0/N2QN1.v4.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"

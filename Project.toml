@@ -1,6 +1,6 @@
 name = "N2QN1_jll"
 uuid = "002bfba3-21ac-52e9-b66b-06fbad9fcd75"
-version = "3.0.0+0"
+version = "4.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
